@@ -1,3 +1,4 @@
+#Fizz buzz challenge
 for i in range(1, 101):
     fizz = i % 3 == 0
     buzz = i % 5 == 0
